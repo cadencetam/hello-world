@@ -1,3 +1,3 @@
 # hello-world
 
-Hi everyone! I'm Cadence.
+My name is Cadence
